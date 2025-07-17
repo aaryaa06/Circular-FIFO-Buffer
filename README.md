@@ -1,3 +1,4 @@
+# Circular-FIFO-Buffer
 ##  Overview
 This project implements a parameterized synchronous FIFO (First-In-First-Out) buffer in Verilog, designed for digital systems requiring reliable data buffering between producer and consumer modules. A testbench is also included to simulate and verify the FIFO behavior.
 
