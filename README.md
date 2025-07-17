@@ -1,7 +1,3 @@
-# Circular-FIFO-Buffer
-A parameterized synchronous FIFO buffer in Verilog with support for almost full/empty flags and overflow/underflow detection, along with a testbench for simulation.
-# Synchronous FIFO Buffer in Verilog
-
 ##  Overview
 This project implements a parameterized synchronous FIFO (First-In-First-Out) buffer in Verilog, designed for digital systems requiring reliable data buffering between producer and consumer modules. A testbench is also included to simulate and verify the FIFO behavior.
 
